@@ -1,2 +1,2 @@
 # siegreichSafari
-Repo of team SAFARI for ML Hackathon, INVENTUM 2025
+Repo of team SAFARI, for full stack web development
